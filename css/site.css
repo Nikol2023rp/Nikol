@@ -1,0 +1,35 @@
+body{
+	background-color: lightpink;
+}
+header{
+	height: 200px;
+	background-color: violet;
+}
+nav,aside{
+	width: 20%;
+	background-color: lightcoral;
+	height: 500px;
+	float: left;
+}
+main{
+	width: 60%;
+	background-color: lightcoral;
+	height: 500px;
+	float: left;
+}
+footer{
+	height: 150px;
+	background-color: yellow;
+	clear: both;
+}
+h2{
+	text-align: center;
+}
+article{
+	margin: 10px;
+	text-align: justify;
+	width: 30%;
+	display: inline-block;
+	border: dashed 2px indigo;
+	padding:5px;
+}
